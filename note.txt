@@ -1,5 +1,0 @@
-Bot token: 1548233193:AAEMJqtwfayxXx_CeHnxjld-f8nECzziTeM
-
-TODO:   read telegram bot api (https://core.telegram.org/bots/api#authorizing-your-bot)
-TODO:   read module documentation (https://github.com/eternnoir/pyTelegramBotAPI#getting-started)
-TODO:   read PEP 8 main part (https://www.python.org/dev/peps/pep-0008/#naming-conventions)
